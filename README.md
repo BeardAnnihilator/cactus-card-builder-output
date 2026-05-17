@@ -1,5 +1,7 @@
 # Altered TCG — Print-Ready Card Files
 
+![Card assembly preview](promo/FUGUE_promo.gif)
+
 This repository contains print-ready card files for the [Altered TCG](https://altered.gg) card game, generated from official card data released by Equinox.
 
 ## What's in here
