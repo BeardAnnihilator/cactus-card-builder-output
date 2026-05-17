@@ -27,6 +27,6 @@ Just bring the PDF for the card(s) you want, ask for **poker-size card printing 
 
 ## Legal
 
-Altered TCG card artwork and game assets are the property of [Equinox](https://www.equinox.studio). These files are generated from official card data and artwork made publicly available by Equinox. They are intended for personal, non-commercial use — printing your own physical copies of cards you own or play with.
+Altered TCG card artwork and game assets are the property of Equinox. These files are generated from official card data and artwork made publicly available by Equinox. They are intended for personal, non-commercial use — printing your own physical copies of cards you own or play with.
 
 Do not use these files for commercial purposes or resale.
